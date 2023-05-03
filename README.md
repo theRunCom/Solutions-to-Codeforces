@@ -1,4 +1,9 @@
+[![MasterHead](imgs/codeforces.png)](https://github.com/theRunCom/Solutions-to-Codeforces)
+
 # Solutions-to-Codeforces
+
+## 视频讲解:wink:
+
 
 | 题号  | 题目 | 代码 |
 |:---:|:---:|:---:|

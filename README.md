@@ -5,7 +5,7 @@
 ## 视频讲解:wink:
 
 
-| 题号  | 题目 | 代码 | 难度 | 标签 |
+| 题号#️  | 题目🫶 | 代码🐛 | 难度🥹 | 标签🚩 |
 |:---:|:---:|:---:|:---:|:---:|
 | 4A   | [Watermelon](https://codeforces.com/problemset/problem/4/A) | [Watermelon](solutions/4A.cpp) | *800 | 暴力破解，数学 | 
 | 71A  | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [Way Too Long Words](solutions/71A.cpp) | *800 | 字符串 |

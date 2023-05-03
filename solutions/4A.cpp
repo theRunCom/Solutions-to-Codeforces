@@ -1,4 +1,3 @@
-// 判断这个数是否是非2的偶数，非2偶数一定可以被分为两个偶数之和的
 #include <iostream>
 using namespace std;
 int main() {

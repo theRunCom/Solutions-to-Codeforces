@@ -13,4 +13,5 @@
 | 1716A | [2-3 Moves](https://codeforces.com/problemset/problem/1716/A) | [2-3 Moves](solutions/1716A.cpp) | *800 | 贪心，数学 |
 | 1719A | [Chip Game](https://codeforces.com/problemset/problem/1719/A) | [Chip Game](solutions/1719A.cpp) | *800 | 数学 |
 | 1720A | [Burenka Plays with Fractions](https://codeforces.com/problemset/problem/1720/A) | [Burenka Plays with Fractions](solutions/1720A.cpp) | *900 | 数论 | 
+| 1720B | [Interesting Sum](https://codeforces.com/problemset/problem/1720/B) | [Interesting Sum](solutions/1720B.cpp) | *800 | 暴力破解，数据结构 | 
 | 1721A | [Image](https://codeforces.com/problemset/problem/1721/A) | [Image](solutions/1721A.cpp) | *800 | 贪心，模拟 |

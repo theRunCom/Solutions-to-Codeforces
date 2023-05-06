@@ -7,7 +7,6 @@ vector<int> vec;
 int main() {
     scanf("%d", &n);
     while (n--) {
-        int sum;
         scanf("%d", &m);
         vec.resize(m);
         for (auto& c : vec) cin >> c;

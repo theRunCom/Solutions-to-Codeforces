@@ -1,19 +1,16 @@
 #include <iostream>
-#include <vector>
-#include <algorithm>
 using namespace std;
 int main() {
-    int n;
-    int x, y;
-    scanf("%d", &n);
-    while (n--) {
-        int tmp, sum = 0;
-        scanf("%d%d", &x, &y);
-        vector<int> arr;
-        for (int i = 0; i < x; i++) {
-            scanf("%d", &tmp);
-            arr.push_back(tmp);
+    int t, n, k;
+    cin >> t;
+    while (t--) {
+        int x, res = 0;
+        cin >> n >> k;
+        for (int i = 0; i < n; i++) {
+            cin >> x;
+            res += (i < k && x > k);
         }
-        tmp = min_element(arr.begin(), arr.end());
+        cout << res << endl;
     }
+    return 0;
 }

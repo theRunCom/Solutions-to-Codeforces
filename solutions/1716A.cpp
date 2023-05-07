@@ -9,7 +9,7 @@ int main() {
         if (m == 1)
             cout << 2 << endl;
         else
-            cout << (int)ceil(m * 1.0 / 2) << endl;
+            cout << (int)ceil(m * 1.0 / 3) << endl;
     }
     return 0;
 }

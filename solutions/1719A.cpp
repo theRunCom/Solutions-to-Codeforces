@@ -5,7 +5,7 @@ int main() {
     cin >> t;
     while (t--) {
         cin >> n >> m;
-        puts((n + m) % 2 ? "Burenka" : "Tonya");
+        puts((n + m - 2) % 2 ? "Burenka" : "Tonya");
     }
     return 0;
 }

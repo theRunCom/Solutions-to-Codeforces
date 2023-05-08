@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cmath>
 using namespace std;
 int main() {
     int n, m;
@@ -9,7 +8,7 @@ int main() {
         if (m == 1)
             cout << 2 << endl;
         else
-            cout << (int)ceil(m * 1.0 / 3) << endl;
+            cout << (int)((m + 2) * 1.0 / 3) << endl;
     }
     return 0;
 }

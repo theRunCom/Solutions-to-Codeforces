@@ -18,3 +18,6 @@
 | 1720A | [Burenka Plays with Fractions](https://codeforces.com/problemset/problem/1720/A) | [Burenka Plays with Fractions](solutions/1720A.cpp) | *900 | 数论 | 
 | 1720B | [Interesting Sum](https://codeforces.com/problemset/problem/1720/B) | [Interesting Sum](solutions/1720B.cpp) | *800 | 暴力破解，数据结构 | 
 | 1721A | [Image](https://codeforces.com/problemset/problem/1721/A) | [Image](solutions/1721A.cpp) | *800 | 贪心，模拟 |
+| 1823A | [A-characteristic](https://codeforces.com/problemset/problem/1823/A) | [A-characteristic](solutions/1823A.cpp) | *800 | 组合数学 |
+| 1823B | [Sort with Step](https://codeforces.com/problemset/problem/1823/B) | [Sort with Step](solutions/1823B.cpp) | *900 | 数学，排序 |
+| 1823C | [Strongly Composite](https://codeforces.com/problemset/problem/1823/C) | [Strongly Composite](solutions/1823C.cpp) | *1300 | 数论，贪心 |

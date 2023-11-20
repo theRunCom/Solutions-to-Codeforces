@@ -6,3 +6,4 @@
 |:---:|:---:|:---:|:---:|:---:|
 | 236A | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | [Boy or Girl](solutions/236A.cpp) | 800 | 字符串 |
 | 617A | [Elephant](https://codeforces.com/problemset/problem/617/A) | [Elephant](solutions/617A.cpp) | 800 | 数学 |
+| 271A | [Beautiful Year](https://codeforces.com/problemset/problem/271/A) | [Beautiful Year](solutions/271A.cpp) | 800 | 暴力破解 |

@@ -4,7 +4,18 @@
 
 | 题号#️  | 题目🫶 | 代码🐛 | 难度🥹 | 标签🚩 |
 |:---:|:---:|:---:|:---:|:---:|
+| 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [Way Too Long Words](solutions/71A.cpp) | 800 | 字符串 |
 | 236A | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | [Boy or Girl](solutions/236A.cpp) | 800 | 字符串 |
+| 4A | [Watermelon](https://codeforces.com/problemset/problem/4/A) | [Watermelon](solutions/4A.cpp) | 800 | 数学 |
 | 617A | [Elephant](https://codeforces.com/problemset/problem/617/A) | [Elephant](solutions/617A.cpp) | 800 | 数学 |
 | 1328A | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | [Divisibility Problem](solutions/1328A.cpp) | 800 | 数学 |
+| 1719A | [Chip Game](https://codeforces.com/problemset/problem/1719/A) | [Chip Game](solutions/1719A.cpp) | 800 | 数学 |
+| 1720A | [Burenka Plays with Fractions](https://codeforces.com/problemset/problem/1720/A) | [Burenka Plays with Fractions](solutions/1720A.cpp) | 900 | 数学 |
+| 231A | [Team](https://codeforces.com/problemset/problem/231/A) | [Team](solutions/231A.cpp) | 800 | 暴力破解 |
 | 271A | [Beautiful Year](https://codeforces.com/problemset/problem/271/A) | [Beautiful Year](solutions/271A.cpp) | 800 | 暴力破解 |
+| 1720B | [Interesting Sum](https://codeforces.com/problemset/problem/1720/B) | [solutions/1720B.cpp](solutions/1720B.cpp) | 800 | 暴力破解 |
+| 1732A | [Bestie](https://codeforces.com/problemset/problem/1732/A) | [Bestie](solutions/1732A.cpp) | 1000 | 暴力破解 |
+| 1574B | [Combinatorics Homework](https://codeforces.com/problemset/problem/1574/B) | [Combinatorics Homework](solutions/1574B.cpp) | 1100 | 组合数学 |
+| 1712A | [Wonderful Permutation](https://codeforces.com/problemset/problem/1712/A) | [Wonderful Permutation](solutions/1712A.cpp) | 800 | 贪心 |
+| 1716A | [2-3 Moves](https://codeforces.com/problemset/problem/1716/A) | [2-3 Moves](solutions/1716A.cpp) | 800 | 贪心 |
+| 1721A | [Image](https://codeforces.com/problemset/problem/1721/A) | [Image](solutions/1721A.cpp) | 800 | 贪心 |

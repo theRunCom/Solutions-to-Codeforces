@@ -4,6 +4,7 @@
 
 | 题号#️  | 题目🫶 | 代码🐛 | 难度🥹 | 标签🚩 |
 |:---:|:---:|:---:|:---:|:---:|
+| 791A | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [solutions/791A.cpp](solutions/791A.cpp) | 800 | 模拟 |
 | 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [Way Too Long Words](solutions/71A.cpp) | 800 | 字符串 |
 | 236A | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | [Boy or Girl](solutions/236A.cpp) | 800 | 字符串 |
 | 4A | [Watermelon](https://codeforces.com/problemset/problem/4/A) | [Watermelon](solutions/4A.cpp) | 800 | 数学 |

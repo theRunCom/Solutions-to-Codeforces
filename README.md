@@ -4,6 +4,7 @@
 
 | 题号#️  | 题目🫶 | 代码🐛 | 难度🥹 | 标签🚩 |
 |:---:|:---:|:---:|:---:|:---:|
+| 116A | [Tram](https://codeforces.com/problemset/problem/116/A) | [Tram](solutions/116A.cpp) | 800 | 模拟 |
 | 467A | [George and Accommodation](https://codeforces.com/problemset/problem/467/A) | [George and Accommodation](solutions/467A.cpp) | 800 | 模拟 |
 | 791A | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [Bear and Big Brother](solutions/791A.cpp) | 800 | 模拟 |
 | 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [Way Too Long Words](solutions/71A.cpp) | 800 | 字符串 |

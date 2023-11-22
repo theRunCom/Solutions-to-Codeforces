@@ -21,6 +21,7 @@
 | 1720B | [Interesting Sum](https://codeforces.com/problemset/problem/1720/B) | [solutions/1720B.cpp](solutions/1720B.cpp) | 800 | 暴力破解 |
 | 1732A | [Bestie](https://codeforces.com/problemset/problem/1732/A) | [Bestie](solutions/1732A.cpp) | 1000 | 暴力破解 |
 | 1574B | [Combinatorics Homework](https://codeforces.com/problemset/problem/1574/B) | [Combinatorics Homework](solutions/1574B.cpp) | 1100 | 组合数学 |
+| 996A | [Hit the Lottery](https://codeforces.com/problemset/problem/996/A) | [solutions/996A.cpp](solutions/996A.cpp) | 800 | 贪心 |
 | 1712A | [Wonderful Permutation](https://codeforces.com/problemset/problem/1712/A) | [Wonderful Permutation](solutions/1712A.cpp) | 800 | 贪心 |
 | 1716A | [2-3 Moves](https://codeforces.com/problemset/problem/1716/A) | [2-3 Moves](solutions/1716A.cpp) | 800 | 贪心 |
 | 1721A | [Image](https://codeforces.com/problemset/problem/1721/A) | [Image](solutions/1721A.cpp) | 800 | 贪心 |

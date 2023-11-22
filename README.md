@@ -7,6 +7,7 @@
 | 116A | [Tram](https://codeforces.com/problemset/problem/116/A) | [Tram](solutions/116A.cpp) | 800 | 模拟 |
 | 467A | [George and Accommodation](https://codeforces.com/problemset/problem/467/A) | [George and Accommodation](solutions/467A.cpp) | 800 | 模拟 |
 | 791A | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | [Bear and Big Brother](solutions/791A.cpp) | 800 | 模拟 |
+| 977A | [Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | [solutions/977A.cpp](solutions/977A.cpp) | 800 | 模拟 |
 | 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [Way Too Long Words](solutions/71A.cpp) | 800 | 字符串 |
 | 236A | [Boy or Girl](https://codeforces.com/problemset/problem/236/A) | [Boy or Girl](solutions/236A.cpp) | 800 | 字符串 |
 | 4A | [Watermelon](https://codeforces.com/problemset/problem/4/A) | [Watermelon](solutions/4A.cpp) | 800 | 数学 |

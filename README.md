@@ -4,7 +4,7 @@
 
 
 <details>
-<summary>简单难度题目</summary>
+<summary> 🧩 简单难度题目 📝 </summary>
 
 | 题号#️  | 题目🫶 | 代码🐛 | 难度🥹 | 标签🚩 |
 |:---:|:---:|:---:|:---:|:---:|
@@ -32,7 +32,11 @@
 
 </details>
 
+<details>
+<summary> 🧗 中等难度题目 📝 </summary>
 
 | 题号#️  | 题目🫶 | 代码🐛 | 难度🥹 | 标签🚩 |
 |:---:|:---:|:---:|:---:|:---:|
 | 1881D | [Divide and Equalize](https://codeforces.com/problemset/problem/1881/D) | [solutions/1881D.cpp](solutions/1881D.cpp) | 1300 | 数学
+
+</details>

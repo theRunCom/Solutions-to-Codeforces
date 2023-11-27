@@ -2,6 +2,10 @@
 
 # Solutions-to-Codeforces
 
+
+<details>
+<summary>简单难度题目</summary>
+
 | 题号#️  | 题目🫶 | 代码🐛 | 难度🥹 | 标签🚩 |
 |:---:|:---:|:---:|:---:|:---:|
 | 116A | [Tram](https://codeforces.com/problemset/problem/116/A) | [Tram](solutions/116A.cpp) | 800 | 模拟 |
@@ -25,3 +29,10 @@
 | 1712A | [Wonderful Permutation](https://codeforces.com/problemset/problem/1712/A) | [Wonderful Permutation](solutions/1712A.cpp) | 800 | 贪心 |
 | 1716A | [2-3 Moves](https://codeforces.com/problemset/problem/1716/A) | [2-3 Moves](solutions/1716A.cpp) | 800 | 贪心 |
 | 1721A | [Image](https://codeforces.com/problemset/problem/1721/A) | [Image](solutions/1721A.cpp) | 800 | 贪心 |
+
+</details>
+
+
+| 题号#️  | 题目🫶 | 代码🐛 | 难度🥹 | 标签🚩 |
+|:---:|:---:|:---:|:---:|:---:|
+| 1881D | [Divide and Equalize](https://codeforces.com/problemset/problem/1881/D) | [solutions/1881D.cpp](solutions/1881D.cpp) | 1300 | 数学

@@ -40,6 +40,6 @@
 
 | 题号#️  | 题目🫶 | 代码🐛 | 难度🥹 | 标签🚩 |
 |:---:|:---:|:---:|:---:|:---:|
-| 1881D | [Divide and Equalize](https://codeforces.com/problemset/problem/1881/D) | [solutions/1881D.cpp](solutions/1881D.cpp) | 1300 | 数学
-
+| 1881D | [Divide and Equalize](https://codeforces.com/problemset/problem/1881/D) | [Divide and Equalize](solutions/1881D.cpp) | 1300 | 数学 |
+| 318B | [Strings of Power](https://codeforces.com/problemset/problem/318/B) | [Strings of Power](solutions/318B.cpp) | 1300 | 字符串 |
 </details>

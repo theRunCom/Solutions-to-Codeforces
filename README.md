@@ -18,6 +18,7 @@
 | 4A | [Watermelon](https://codeforces.com/problemset/problem/4/A) | [Watermelon](solutions/4A.cpp) | 800 | 数学 |
 | 617A | [Elephant](https://codeforces.com/problemset/problem/617/A) | [Elephant](solutions/617A.cpp) | 800 | 数学 |
 | 1328A | [Divisibility Problem](https://codeforces.com/problemset/problem/1328/A) | [Divisibility Problem](solutions/1328A.cpp) | 800 | 数学 |
+| 1553A | [Digits Sum](https://codeforces.com/problemset/problem/1553/A) | [Digits Sum](solutions/1553A.cpp) | 800 | 数学 |
 | 1719A | [Chip Game](https://codeforces.com/problemset/problem/1719/A) | [Chip Game](solutions/1719A.cpp) | 800 | 数学 |
 | 1720A | [Burenka Plays with Fractions](https://codeforces.com/problemset/problem/1720/A) | [Burenka Plays with Fractions](solutions/1720A.cpp) | 900 | 数学 |
 | 231A | [Team](https://codeforces.com/problemset/problem/231/A) | [Team](solutions/231A.cpp) | 800 | 暴力破解 |

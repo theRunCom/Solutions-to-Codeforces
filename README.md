@@ -42,4 +42,5 @@
 |:---:|:---:|:---:|:---:|:---:|
 | 1881D | [Divide and Equalize](https://codeforces.com/problemset/problem/1881/D) | [Divide and Equalize](solutions/1881D.cpp) | 1300 | 数学 |
 | 318B | [Strings of Power](https://codeforces.com/problemset/problem/318/B) | [Strings of Power](solutions/318B.cpp) | 1300 | 字符串 |
+| 25A | [IQ test](https://codeforces.com/problemset/problem/25/A) | [IQ test](solutions/25A.cpp) | 1300 | 暴力破解 | 
 </details>

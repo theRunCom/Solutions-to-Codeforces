@@ -42,6 +42,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | 1881D | [Divide and Equalize](https://codeforces.com/problemset/problem/1881/D) | [Divide and Equalize](solutions/1881D.cpp) | 1300 | 数学 |
 | 318B | [Strings of Power](https://codeforces.com/problemset/problem/318/B) | [Strings of Power](solutions/318B.cpp) | 1300 | 字符串 |
+| 1886C | [Decreasing String](https://codeforces.com/problemset/problem/1886/C) | [Decreasing String](solutions/1886C.cpp) | 1600 | 字符串 |
 | 25A | [IQ test](https://codeforces.com/problemset/problem/25/A) | [IQ test](solutions/25A.cpp) | 1300 | 暴力破解 | 
 | 1666C | [Connect the Points](https://codeforces.com/problemset/problem/1666/C) | [Connect the Points](solutions/1666C.cpp) | 1800 | 暴力破解 |
 | 352B | [Jeff and Periods](https://codeforces.com/problemset/problem/352/B) | [Jeff and Periods](solutions/352B.cpp) | 1300 | 模拟 |

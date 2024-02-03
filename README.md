@@ -44,6 +44,7 @@
 | 318B | [Strings of Power](https://codeforces.com/problemset/problem/318/B) | [Strings of Power](solutions/318B.cpp) | 1300 | 字符串 |
 | 1886C | [Decreasing String](https://codeforces.com/problemset/problem/1886/C) | [Decreasing String](solutions/1886C.cpp) | 1600 | 字符串 |
 | 25A | [IQ test](https://codeforces.com/problemset/problem/25/A) | [IQ test](solutions/25A.cpp) | 1300 | 暴力破解 | 
+| 1311C | [Perform the Combo](https://codeforces.com/contest/1311/problem/C) | [Perform the Combo](solutions/1311C.cpp) | 1300 | 暴力破解 |
 | 1666C | [Connect the Points](https://codeforces.com/problemset/problem/1666/C) | [Connect the Points](solutions/1666C.cpp) | 1800 | 暴力破解 |
 | 352B | [Jeff and Periods](https://codeforces.com/problemset/problem/352/B) | [Jeff and Periods](solutions/352B.cpp) | 1300 | 模拟 |
 | 1551C | [Interesting Story](https://codeforces.com/problemset/problem/1551/C) | [Interesting Story](solutions/1551C.cpp) | 1500 | 贪心 | 

@@ -47,5 +47,6 @@
 | 1311C | [Perform the Combo](https://codeforces.com/contest/1311/problem/C) | [Perform the Combo](solutions/1311C.cpp) | 1300 | 暴力破解 |
 | 1666C | [Connect the Points](https://codeforces.com/problemset/problem/1666/C) | [Connect the Points](solutions/1666C.cpp) | 1800 | 暴力破解 |
 | 352B | [Jeff and Periods](https://codeforces.com/problemset/problem/352/B) | [Jeff and Periods](solutions/352B.cpp) | 1300 | 模拟 |
+| 1870D | [Prefix Purchase](https://codeforces.com/contest/1870/problem/D) | [Prefix Purchase](solutions/1870D.cpp) | 1800 | 模拟 |
 | 1551C | [Interesting Story](https://codeforces.com/problemset/problem/1551/C) | [Interesting Story](solutions/1551C.cpp) | 1500 | 贪心 | 
 </details>
